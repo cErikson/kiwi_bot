@@ -1,0 +1,2 @@
+robot_setup_tf:ros-i2cpwmboard:xv_11_laser_driver
+-DCATKIN_DEVEL_PREFIX=/home/pi/mec_bot/devel -DCMAKE_INSTALL_PREFIX=/home/pi/mec_bot/install -G Unix Makefiles
